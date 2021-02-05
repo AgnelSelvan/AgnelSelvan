@@ -1,4 +1,4 @@
-## Hi there, I'm Agnel Selvan - [website](https://agnelselvan.github.io/Portfolio/) 👋
+## Hi there, I'm Agnel Selvan - [website](https://agnelselvan.me) 👋
 
 ## I'm a Developer!!
 
