@@ -4,7 +4,7 @@
 
 - 🌱 I love learning new technology ❤️
 - 🥅 2020 Goals: To learn more technology and work on new projects. 🚀️
-- ⚡ Fun fact: I love to draw and listen music.
+- ⚡ Fun fact: I love to draw, listen music and Travel.
 
 ### Languages and Tools:
 
