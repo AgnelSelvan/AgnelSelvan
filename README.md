@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan" />
+<img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan&show_icons=true&theme=radical" />
 
 
 </details>
