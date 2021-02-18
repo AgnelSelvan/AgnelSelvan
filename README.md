@@ -52,4 +52,9 @@
 <img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan&show_icons=true&theme=radical" />
 
 
+---
 
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/agnel-selvan-328421192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_agnel.selvan_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
