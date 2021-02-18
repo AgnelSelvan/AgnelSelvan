@@ -50,7 +50,6 @@
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan&show_icons=true&theme=radical" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AgnelSelvan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
