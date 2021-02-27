@@ -1,7 +1,7 @@
 ## Hi there, I'm [Agnel Selvan](https://agnelselvan.github.io) 👋
 
 
-# A Passionate Android Developer 🚀 
+## A Passionate Android Developer 🚀 
 
 - 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
 - 🥅 Lifetime Goals: To learn more technology and work on new projects. 🚀️
