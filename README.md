@@ -1,8 +1,9 @@
 ## Hi there, I'm [Agnel Selvan](https://agnelselvan.github.io) 👋
 
-## I'm a Developer!!
 
-- 🌱 I love learning new technology ❤️
+# A Passionate Android Developer 🚀 
+
+* 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
 - 🥅 Lifetime Goals: To learn more technology and work on new projects. 🚀️
 - ⚡ Fun fact: I love to draw, listen music and Travel.
 
