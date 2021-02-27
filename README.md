@@ -3,7 +3,7 @@
 
 ## A Passionate Android Developer 🚀 
 
-- 📱 Android Developer  🦹🏻‍♂️ 
+- 📱 Android Developer  🦹 ♂️
 - 🥅 Lifetime Goals: To learn more technology and work on new projects. 🚀️
 - ⚡ Fun fact: I love to draw, listen music and Travel.
 
