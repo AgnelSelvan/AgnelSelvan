@@ -7,7 +7,7 @@
 - 🥅 Lifetime Goals: To learn more technology and work on more projects. 🚀️
 - ⚡ Fun fact: I love to draw, listen music and Travel.
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
@@ -31,14 +31,17 @@
 <br />
 
 
-<!---
-<img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan&include_all_commits=true&show_icons=true&theme=radical" />
----!>
 
 ## Stats
 
 <img align="left" alt="Agnel Selvan's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnelSelvan&layout=compact&theme=radical" />
 
+
+
+
+<!---
+<img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan&include_all_commits=true&show_icons=true&theme=radical" />
+---!>
 
 
 
