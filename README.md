@@ -1,9 +1,9 @@
 ## Hi there, I'm [Agnel Selvan](https://agnelselvan.github.io) 👋
 
 
-## A Passionate Android Developer 🚀 
+## A Passionate Mobile Application Developer 🚀 
 
--  📱 Android Developer
+-  📱 Flutter Developer
 - 🥅 Lifetime Goals: To learn more technology and work on more projects. 🚀️
 - ⚡ Fun fact: I love to draw, listen music and Travel.
 
