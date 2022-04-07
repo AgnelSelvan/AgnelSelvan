@@ -34,13 +34,8 @@
 
 <img align="left" alt="Agnel Selvan's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnelSelvan&layout=compact&theme=radical" />
 
-
-
-
-<!---
-## Stats
 <img align="left" alt="Agnel Selvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AgnelSelvan&include_all_commits=true&show_icons=true&theme=radical" />
----!>
+
 
 
 
