@@ -4,7 +4,8 @@
 ## A Passionate Mobile Application Developer 🚀 
 
 -  📱 Flutter Developer
-- 🥅 Lifetime Goals: To learn more technology and work on more projects. 🚀️
+- I occasionally write technical stuffs @[medium.com](https://agnelselvan.medium.com/)
+- How to reach me: Twitter - [Agnel Selvan](https://twitter.com/Agnel04454713), Linkedin - [Agnel Selvan](https://www.linkedin.com/in/agnel-selvan-328421192/)
 - ⚡ Fun fact: I love to draw, listen music and Travel.
 
 ## Languages and Tools:
